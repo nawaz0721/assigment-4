@@ -1,0 +1,35 @@
+h1,h3{
+    text-align: center;
+}
+table, tr ,td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+#free{
+    background-color: rgb(77, 180, 111);
+}
+.light {
+    background-color: rgb(116, 209, 252);
+}
+.web{
+    background-color: rgb(17, 150, 150);
+}
+.graphic{
+    background-color: rgb(255, 192, 115);
+}
+.cco{
+    background-color: yellow;
+}
+.video{
+    background-color: rgb(138, 45, 175);
+}
+.blank{
+    background-color: darkmagenta;
+}
+.AI{
+    background-color: green;
+}
+table{
+    width: 100%;
+}
